@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+    <parent>
+        <groupId>com.bmzx.platform</groupId>
+        <artifactId>platform</artifactId>
+        <version>1.1</version>
+    </parent>
+   <packaging>pom</packaging>
+    <description>
+        这是平台的核心包，主要包括自定义的工具类，java文档面向，日志
+    </description>
+    <modules>
+        <module>platform-common</module>
+        <module>platform-javadoc</module>
+        <module>platform-log</module>
+        <module>platform-web</module>
+    </modules>
+    <artifactId>platform-core</artifactId>
+
+    <properties>
+        <maven.compiler.source>8</maven.compiler.source>
+        <maven.compiler.target>8</maven.compiler.target>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+    </properties>
+
+</project>
