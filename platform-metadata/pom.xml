@@ -9,10 +9,8 @@
         <version>1.1</version>
     </parent>
 
-    <artifactId>platform-master-data</artifactId>
-    <description>
-        这里主要是包括对数据管理，其中包括人员，部门，菜单、表，字段等所有信息的维护和管理；
-    </description>
+    <artifactId>platform-metadata</artifactId>
+
     <properties>
         <maven.compiler.source>8</maven.compiler.source>
         <maven.compiler.target>8</maven.compiler.target>
