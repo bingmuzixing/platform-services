@@ -6,5 +6,5 @@ package com.bmzx.platform.core.command;
  * @Author liu418749406@163.com
  * @Date 2023/8/2 19:15
  */
-public class ICommandHandler {
+public interface ICommandHandler {
 }
