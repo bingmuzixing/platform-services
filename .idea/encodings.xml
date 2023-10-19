@@ -5,6 +5,8 @@
     <file url="file://$PROJECT_DIR$/platform-business/platform-cms/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/platform-business/platform-oa/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/platform-business/platform-oa/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/platform-business/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/platform-business/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/platform-core/platform-common/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/platform-core/platform-common/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/platform-core/platform-javadoc/src/main/java" charset="UTF-8" />
@@ -13,6 +15,8 @@
     <file url="file://$PROJECT_DIR$/platform-core/platform-log/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/platform-core/platform-web/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/platform-core/platform-web/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/platform-core/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/platform-core/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/platform-file/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/platform-file/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/platform-generator/src/main/java" charset="UTF-8" />
@@ -23,6 +27,8 @@
     <file url="file://$PROJECT_DIR$/platform-monitor/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/platform-security/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/platform-security/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
     <file url="PROJECT" charset="UTF-8" />
   </component>
 </project>

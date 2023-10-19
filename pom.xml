@@ -35,7 +35,7 @@
         <commons.io.version>2.11.0</commons.io.version>
         <redis.version>2.9.0</redis.version>
         <pagehelper.boot.version>1.2.5</pagehelper.boot.version>
-        <fastjson.version>1.2.70</fastjson.version>
+        <fastjson.version>2.0.39</fastjson.version>
     </properties>
     <dependencyManagement>
 
@@ -134,7 +134,24 @@
                 <artifactId>pagehelper-spring-boot-starter</artifactId>
                 <version>${pagehelper.boot.version}</version>
             </dependency>
+
+            <dependency>
+                <groupId>com.alibaba.fastjson2</groupId>
+                <artifactId>fastjson2</artifactId>
+                <version>${fastjson.version}</version>
+            </dependency>
+
+
+
+            <dependency>
+                <groupId>org.apache.shiro</groupId>
+                <artifactId>shiro-spring</artifactId>
+                <version>1.12.0</version>
+            </dependency>
         </dependencies>
+
+
+
     </dependencyManagement>
 
     <dependencies>
